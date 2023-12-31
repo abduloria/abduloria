@@ -1,13 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulrahman Ahmed O
 ===========================================================================================================================================
 
-Data scientist
---------------
+Ethical Finance - Focused Data scientist
+----------------------------------------
+
+My interest in integrating AI with financial technology has propelled my AI/ML journey which is leading me to Data science.
 
 * 🌍  I'm based in Abuja, Nigeria
 * ✉️  You can contact me at [abduloria@gmail.com](mailto:abduloria@gmail.com)
-* 🧠  I'm learning Python for Data science
-* 🤝  I'm open to collaborating on Interesting projects
+* 🧠  I'm learning I am currently learning Writing in the Sciences by Stanford University and also in Arewa Data Science Academy's Data Science with Machine Learning
+* 🤝  I'm open to collaborating on projects related to Ethical Finance and Fin. Tech. improvement with AI.
 
 ### Skills
 
