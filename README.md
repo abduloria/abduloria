@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulrahman Ahmed O
 ===========================================================================================================================================
 
-Ethical Finance - Focused Data scientist
+Ethical Finance - Focused Data analyst/scientist
 ----------------------------------------
 
 My interest in integrating AI with financial technology has propelled my AI/ML journey which is leading me to Data analysis/science.
