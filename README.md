@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Ethical Finance - Focused Data scientist
 ----------------------------------------
 
-My interest in integrating AI with financial technology has propelled my AI/ML journey which is leading me to Data science.
+My interest in integrating AI with financial technology has propelled my AI/ML journey which is leading me to Data analysis/science.
 
 * 🌍  I'm based in Abuja, Nigeria
 * ✉️  You can contact me at [abduloria@gmail.com](mailto:abduloria@gmail.com)
