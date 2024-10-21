@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Ethical Finance - Focused Data analyst/scientist
 ----------------------------------------
 
-My interest in integrating AI with financial technology has propelled my AI/ML journey which is leading me to Data analysis/science.
+My interest in integrating AI with financial technology has propelled my AI/ML journey, leading me to Data analysis/science.
 
 * 🌍  I'm based in Abuja, Nigeria
 * ✉️  You can contact me at [abduloria@gmail.com](mailto:abduloria@gmail.com)
 * 🧠  I'm currently learning Writing in the Sciences by Stanford University and also in Arewa Data Science Academy's Data Science with Machine Learning
-* 🤝  I'm open to collaborating on projects related to Ethical Finance and Fin. Tech. improvement with AI.
+* 🤝  I'm open to collaborating on projects related to Ethical Finance and Fin. Tech. Improvement with AI.
 
 ### Skills
 
