@@ -8,8 +8,8 @@ My interest in integrating AI with financial technology has propelled my AI/ML j
 
 * 🌍  I'm based in Abuja, Nigeria
 * ✉️  You can contact me at [abduloria@gmail.com](mailto:abduloria@gmail.com)
-* 🧠  I'm currently learning Writing in the Sciences by Stanford University and also in Arewa Data Science Academy's Data Science with Machine Learning
-* 🤝  I'm open to collaborating on projects related to Ethical Finance and Fin. Tech. Improvement with AI.
+* 🧠  I'm currently learning Writing in the Sciences at Stanford University and also in Arewa Data Science Academy's Data Science with Machine Learning
+* 🤝  I'm open to collaborating on Ethical Finance and Fin—Tech., Education, and Improvement projects with AI.
 
 ### Skills
 
